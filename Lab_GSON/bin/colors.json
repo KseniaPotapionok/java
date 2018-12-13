@@ -1,0 +1,6 @@
+[{"color": "black","category": "hue","type": "primary","code": "#000"},
+{ "color": "white","category": "value","code": "#FFF"},
+{"color": "red","category": "hue","type": "primary","code":  "#FF0"},
+{"color": "blue","category": "hue","type": "primary","code":  "#00F"},
+{"color": "yellow","category": "hue","type": "primary","code":  "#FF0"},
+{"color": "green","category": "hue","type": "secondary","code":  "#0F0"}]
